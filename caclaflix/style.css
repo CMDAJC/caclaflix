@@ -1,0 +1,21 @@
+body{
+    background: black;
+    color: yellow;
+    font-family: "Arima", system-ui;
+}
+header {
+border-bottom: solid 2px blue;
+padding: 0px;
+font-size: 32px;
+color: blue; 
+}
+section {
+    background: purple;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+div{
+    margin-right: 5%;
+}
